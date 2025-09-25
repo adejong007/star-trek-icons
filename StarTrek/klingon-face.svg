@@ -2,7 +2,7 @@
  <title>Klingon Face</title>
  <defs>
   <pattern id="a" xlink:href="#b" patternTransform="matrix(.015058 0 0 .015058 .84882 -1.1836e-5)" preserveAspectRatio="xMidYMid"/>
-  <pattern id="b" width="1485.0618" height="1593.8453" fill="#000000" patternTransform="translate(57.393 6.1773)" patternUnits="userSpaceOnUse" preserveAspectRatio="xMidYMid">
+  <pattern id="b" width="1485.0618" height="1593.8453" patternTransform="translate(57.393 6.1773)" patternUnits="userSpaceOnUse" preserveAspectRatio="xMidYMid">
    <path d="m1048 824.58c0 49.719-40.303 90.021-90.016 90.021-49.713 0-90.016-40.303-90.016-90.021 0-49.713 40.303-90.016 90.016-90.016 49.713 0 90.016 40.303 90.016 90.016z" stroke-width="1.3333"/>
    <path d="m617.25 824.58c0 49.719-40.303 90.021-90.016 90.021s-90.016-40.303-90.016-90.021c0-49.713 40.303-90.016 90.016-90.016s90.016 40.303 90.016 90.016z" stroke-width="1.3333"/>
    <path d="m802.11 670.38s178.24-95.661 237.61-247.48c9.9844 16.464 3.0104 204.69-79.197 234.25-82.464 29.745-151.81 9.9219-158.41 13.219z" stroke-width="1.3333"/>
