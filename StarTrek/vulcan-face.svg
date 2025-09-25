@@ -1,0 +1,32 @@
+<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <pattern id="a" xlink:href="#b" patternTransform="matrix(.015788 0 0 .015788 1.181 4.2138e-5)" preserveAspectRatio="xMidYMid"/>
+  <pattern id="b" width="1339.8023" height="1520.1889" fill="#000000" patternTransform="translate(130.66 71.793)" patternUnits="userSpaceOnUse" preserveAspectRatio="xMidYMid">
+   <path d="m974.72 882.05c0 49.713-40.303 90.016-90.016 90.016s-90.016-40.303-90.016-90.016c0-49.713 40.303-90.016 90.016-90.016s90.016 40.303 90.016 90.016z" stroke-width="1.3333"/>
+   <path d="m543.98 882.05c0 49.713-40.303 90.016-90.016 90.016-49.713 0-90.016-40.303-90.016-90.016 0-49.713 40.303-90.016 90.016-90.016 49.713 0 90.016 40.303 90.016 90.016z" stroke-width="1.3333"/>
+   <path d="m1320.9 647.45c-15.265-22.973-39.661-36.145-66.973-36.145-13.104 0-26.817 3.1823-41.167 9.2344 4.9584-26.749 7.8855-56.593 7.8855-89.776 0-392.31-180.96-530.76-548.93-530.76-368.03 0-552.4 187.99-552.4 530.76 0 34.64 2.0937 64.063 5.776 89.473-14.047-5.8229-27.521-8.9271-40.385-8.9271-27.104 0-51.328 13.042-66.432 35.776-51.631 77.631 22.271 269.93 23.057 271.84 32.115 76.416 87.984 163.05 152.99 194.91 46.131 279.33 374.72 406.36 475 406.36 100.25 0 428.79-127.01 474.97-406.31 63.631-30.656 121.51-113.12 155.91-195.01 0.7813-1.8385 72.719-193.17 20.703-271.44zm-122.83 228.55c-38.339 91.265-91.251 136.91-104.53 139.61-29.167 0-53.344 22.64-55.265 51.745-15.297 232.05-300.4 342.07-368.96 342.07s-353.67-110.02-368.96-342.07c-1.9219-29.104-24.672-51.645-53.839-51.645-14.287-2.9584-64.255-47.328-103.04-139.68-14.031-33.437-28.355-93.713-32.339-134.24 6.4948 5.5364 14.093 12.578 22.787 21.489 17.235 17.661 43.297 21.104 64.271 10.672 12.208 12.031 24.625 22.803 36.271 34.432-17.421-328-1.6615-462.32 67.552-462.32 51.807 0 108.3 44.047 367.31 44.047 259.01 0 313.15-44.047 367.31-44.047 75.011 0 69.104 234.13 69.104 462.32 9.6614-5.6459 23.151-16.579 37.437-33.041 20.432 8.8177 44.989 4.8645 61.489-12.031 9.375-9.5989 17.437-16.989 24.255-22.719-3.1823 40.688-17.12 102.67-30.864 135.4z" stroke-width="1.3333"/>
+   <path d="m730.87 622.45 59.984 105.76c234.97-33.776 243.57-236.41 243.57-236.41s-68.995 165.99-303.55 130.66z" stroke-width="1.3333"/>
+   <path d="m607.8 622.45-59.984 105.76c-234.96-33.776-243.55-236.41-243.55-236.41s68.979 165.99 303.53 130.66z" stroke-width="1.3333"/>
+  </pattern>
+ </defs>
+ <rect x="1.181" width="21.152" height="24" fill="url(#a)"/>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Noun Project</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+</svg>
