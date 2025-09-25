@@ -2,6 +2,7 @@
 A set of icon svgs from Star Trek. Some of these are hand drawn. Others are sourced and scaled from [The Noun Project](https://thenounproject.com). All attributions are included in the xml inside each svg.  
 
 ![Image of Star Trek Icons](https://github.com/adejong007/star-trek-icons/blob/main/icons.png?raw=true)
+![Image of Star Trek Icons](https://github.com/adejong007/star-trek-icons/blob/main/buttons.png?raw=true)
 
 # Integration into Home Assistant
 - Add the [Custom Icons integration found here](https://github.com/thomasloven/hass-custom_icons?tab=readme-ov-file).
